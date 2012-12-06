@@ -1,0 +1,2 @@
+git branch mybranch# Creates a new branch called "mybranch"
+git checkout mybranch# Makes "mybranch" the active branch
